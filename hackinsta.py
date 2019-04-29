@@ -7,7 +7,7 @@ import socket
 import socks
 
 import asyncio
-from proxybroker import Broker
+import Broker
 
 #args parser
 parser = argparse.ArgumentParser()
